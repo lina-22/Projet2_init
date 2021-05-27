@@ -1,0 +1,21 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: 'Raleway'; sans-serif;
+  width: 100%;
+  background-color: aliceblue;
+
+ /* background color black */
+}
+
+.navigation ul {
+  display: flex;
+}
+
+img {
+  width: 10%;
+}
